@@ -1,6 +1,7 @@
 <h1 align="center">Caroline Combs</h1>
 
-![Alt Text](IMG_0224.jpg)
+![Alt Text](Caroline_23_2.JPG)
+
 
 <h2>Education
     
@@ -11,6 +12,15 @@
 [University of California, Berkeley](https://www.berkeley.edu/) ..... 2019 - 2023 
  
 &emsp; &emsp; B.S. Environmental Sciences
+
+
+<h2>Research Interests
+
+Soil biogeochemistry
+
+Regenerative agriculture
+
+Soil health modeling
 
     
    
